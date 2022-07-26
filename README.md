@@ -4,6 +4,10 @@
 
 Chessglyphs produces a random chessboard based on 128-bits of entropy.
 
+### Example
+
+![This is an image](/images/example.png)
+
 ### Installation
 
 ```python
